@@ -1,4 +1,4 @@
-name: SkyWindows
+name: CloudWindows
 
 on: workflow_dispatch
 
